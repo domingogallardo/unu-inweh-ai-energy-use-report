@@ -17,7 +17,7 @@ https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-wate
 
 GitHub Pages version of the generated HTML:
 
-https://domingogallardo.github.io/unu-inweh-ai-energy-use-report/UNU-INWEH-Report-The_Env_Cost_of_AI-2026-clean.html
+https://domingogallardo.github.io/unu-inweh-ai-energy-use-report/
 
 Publication details:
 

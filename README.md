@@ -13,6 +13,12 @@ Official United Nations University Institute for Water, Environment and Health (
 
 https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints
 
+## Web View
+
+GitHub Pages version of the generated HTML:
+
+https://domingogallardo.github.io/unu-inweh-ai-energy-use-report/UNU-INWEH-Report-The_Env_Cost_of_AI-2026-clean.html
+
 Publication details:
 
 - Title: *The Environmental Cost of Artificial Intelligence: Carbon, Water, and Land Footprints*

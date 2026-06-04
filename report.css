@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  padding: 56px 36px 96px;
+  padding: 56px max(36px, env(safe-area-inset-right)) 96px max(36px, env(safe-area-inset-left));
   font-family: Georgia, "Times New Roman", serif;
   line-height: 1.75;
   color: #1f2933;
@@ -16,6 +16,8 @@ body {
 body > * {
   max-width: 760px;
   margin: 0 auto;
+  box-sizing: border-box;
+  width: 100%;
 }
 
 header#title-block-header {
@@ -116,7 +118,7 @@ td {
 
 @media (max-width: 720px) {
   body {
-    padding: 28px 18px 56px;
+    padding: 28px max(20px, env(safe-area-inset-right)) 56px max(26px, env(safe-area-inset-left));
     line-height: 1.68;
   }
 

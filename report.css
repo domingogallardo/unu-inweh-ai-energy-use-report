@@ -4,16 +4,20 @@ html {
 
 body {
   margin: 0;
+  padding: 48px 32px 80px;
   font-family: Georgia, "Times New Roman", serif;
   line-height: 1.65;
   color: #1f2933;
   background: #f5f1e8;
 }
 
-main {
+body > * {
   max-width: 920px;
   margin: 0 auto;
-  padding: 48px 24px 80px;
+}
+
+header#title-block-header {
+  margin-bottom: 1.5rem;
 }
 
 h1,
@@ -87,8 +91,8 @@ td {
 }
 
 @media (max-width: 720px) {
-  main {
-    padding: 28px 16px 56px;
+  body {
+    padding: 28px 18px 56px;
   }
 
   h1 {

@@ -25,6 +25,15 @@ Publication details:
 - Published: June 3, 2026
 - DOI: `10.53328/INR26RMA002`
 
+Authors:
+
+- Miriam Aczel
+- Sanaz Chamanara
+- Mir Matin
+- Aria Farsi
+- Tshilidzi Marwala
+- Kaveh Madani
+
 ## Files
 
 - `UNU-INWEH-Report-The_Env_Cost_of_AI-2026.pdf`
